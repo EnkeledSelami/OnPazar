@@ -1,0 +1,4 @@
+# Desktop build dependencies; web service requirements are included above.
+-r requirements.txt
+pyinstaller>=6.0,<7.0
+pywebview>=5.0,<6.0

@@ -1,0 +1,10 @@
+.venv/
+.venv-desktop/
+__pycache__/
+*.py[cod]
+.env
+.secret_key
+*.sqlite3*
+*.log
+build/
+dist/
